@@ -1,4 +1,4 @@
-# Bondi Design Project with eng /osama elzoro to learn bootsrtrap
+# Bondi Design Project with eng/Osama Elzero  to learn bootsrtrap
 
 This project is based on the **Bondi** design provided by [Elzero Web School](https://www.elzero.org/), implemented using **Bootstrap**. The website is fully responsive and showcases a modern UI layout with Bootstrap components.
 
